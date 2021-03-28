@@ -1,0 +1,8 @@
+.card{
+    width: 180px;
+    height: 200px;
+    background-color: grey;
+    display: grid;
+    grid-template-rows: 20% 80%;
+    border: 2px solid black;
+}
